@@ -12,6 +12,9 @@
        'label': '从剪切板粘贴截图',
        'command': 'amWiki:paste'
     }, {
+       'label': '从剪切板路径粘贴pdf',
+       'command': 'amWiki:pastepdf'
+    },, {
         'label': '手动更新当前文库导航文件',
         'command': 'amWiki:makeNav'
     }, {
