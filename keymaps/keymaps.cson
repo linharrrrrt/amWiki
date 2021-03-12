@@ -2,4 +2,6 @@
 #
 "atom-workspace atom-text-editor:not([mini])":
   "shift-ctrl-v": "amWiki:paste"
+  "shift-ctrl-p": "amWiki:pastepdf"
   "f12": "amWiki:browser"
+  
