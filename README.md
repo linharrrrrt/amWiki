@@ -1,6 +1,6 @@
 # amWiki 轻文库
 
-![amWiki logo](https://amwiki.xf09.net/docs/assets/logo.png)  
+![amWiki logo](http://amwiki.org/doc/amWiki/images/logo.png)  
 amWiki 是一款由 JS 开发、依赖 Atom 或 Nodejs-Npm 的 Markdown 轻量级前端化开源文库系统。  
 amWiki 致力于让大家可以更简单、更便捷的建设个人和团队文库！  
 
