@@ -18,6 +18,7 @@ const MimeType = {
     'css': 'text/css',
     'xml': 'application/xml',
     'json': 'application/json',
+    'pdf': 'application/pdf',
     'js': 'application/javascript',
     'jpg': 'image/jpeg',
     'jpeg': 'image/jpeg',
