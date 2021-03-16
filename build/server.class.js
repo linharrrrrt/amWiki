@@ -28,7 +28,9 @@ const MimeType = {
     'swf': 'application/x-shockwave-flash',
     'tiff': 'image/tiff',
     'wav': 'audio/x-wav',
-    'wma': 'audio/x-ms-wma',
+    'flac': 'audio/flac',
+    'mp3': 'audio/mpeg',
+    'mp4': 'video/mpeg',
     'wmv': 'video/x-ms-wmv'
 };
 
